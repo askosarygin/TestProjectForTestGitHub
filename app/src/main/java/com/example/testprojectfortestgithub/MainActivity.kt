@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         println("Изменения task_1")
-        println("Сделал чтобы подгружался список сообщений")
+        println("Сделал чтобы подгружался список сообщений как то по другому")
     }
 }
